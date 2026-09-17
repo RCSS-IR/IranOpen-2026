@@ -1,0 +1,1 @@
+# IranOpen2026 Soccer Simulation 2D league.
