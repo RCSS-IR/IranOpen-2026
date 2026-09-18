@@ -36,3 +36,10 @@ Results of the **Soccer Simulation 2D (SS2D)** competitions at **IranOpen 2026**
 | 🥇 Champion | **Cambyses I** |
 | 🥈 Runner-up | **IAU Center** |
 | 🥉 3rd Place | **TechRobot** |
+
+---
+
+## Information Boards
+
+- [Starter League Information Board](https://docs.google.com/document/d/1mp56Dr-hMryuSPTqpHarbdsGr7V0YVLJu4oIE4t89pg/edit?tab=t.0#heading=h.3vtbhvvxg03j)
+- [Major League Information Board](https://docs.google.com/document/d/187CerBNq6HN_ZOzWf5FeDL2dLaMKugfNtwFSwY0KWkY/edit?tab=t.0#heading=h.3vtbhvvxg03j)
